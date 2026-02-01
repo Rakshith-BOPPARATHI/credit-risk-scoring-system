@@ -1,0 +1,43 @@
+{
+  "intercept": 2.751131,
+  "coefficients": {
+    "Income": -1.112291,
+    "LoanAmount": 1.712167,
+    "CreditHistory": -0.912897,
+    "WorkExperience": 0.094141,
+    "HomeOwnership": 0.248981
+  },
+  "scaling_params": {
+    "means": {
+      "Income": 60263.938441,
+      "LoanAmount": 152740.615647,
+      "CreditHistory": 14.741371,
+      "WorkExperience": 1.041250,
+      "HomeOwnership": 1.007500
+    },
+    "stds": {
+      "Income": 19827.051862,
+      "LoanAmount": 50259.021197,
+      "CreditHistory": 8.774844,
+      "WorkExperience": 0.819786,
+      "HomeOwnership": 0.815441
+    }
+  },
+  "performance": {
+    "accuracy": 0.875,
+    "roc_auc": 0.8990,
+    "precision": 0.8939,
+    "recall": 0.9639,
+    "f1_score": 0.9275
+  },
+  "model_metadata": {
+    "model_type": "LogisticRegression",
+    "framework": "scikit-learn",
+    "version": "1.0.0",
+    "training_date": "2026-02-01",
+    "train_samples": 800,
+    "test_samples": 200,
+    "features": ["Income", "LoanAmount", "CreditHistory", "WorkExperience", "HomeOwnership"],
+    "status": "production-ready"
+  }
+}
