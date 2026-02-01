@@ -357,10 +357,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## Contact & Support
 
-- **Author**: Rakshith BOPPARATHI
-- **Email**: rakshith.bopparathi@example.com
-- **GitHub**: [@Rakshith-BOPPARATHI](https://github.com/Rakshith-BOPPARATHI)
-- **Issues**: [GitHub Issues](https://github.com/Rakshith-BOPPARATHI/credit-risk-scoring-system/issues)
+- **Author**: Dharamsoth Greeshmika
+- **Email**: greeshmika2005@gmail.com
+- **GitHub**: [@greeshmika2005](https://github.com/greeshmika2005))
+
 
 ## Acknowledgments
 
