@@ -357,9 +357,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## Contact & Support
 
-- **Author**: Dharamsoth Greeshmika
-- **Email**: greeshmika2005@gmail.com
-- **GitHub**: [@greeshmika-dharamsoth]
+- **Author**: Bopparathi Rakshith
+- **Email**: bopparathirakshith2404@gmail.com
+- **GitHub**: [@rakshith-bopparathi]
 
 
 ## Acknowledgments
